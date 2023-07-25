@@ -1,0 +1,124 @@
+6/12/2023 6:38:22 AM | 
+6/12/2023 6:38:22 AM | 
+Message : Le processus ne peut pas accéder au fichier 'C:\Users\DELL\AppData\Local\openElement\1.57.9\UserToolsBox3.xml', car il est en cours d'utilisation par un autre processus.
+6/12/2023 6:38:22 AM | 
+LastTrace : openElement.Forms.FrmMain.SaveUserUIConfigToolsBox()
+6/12/2023 6:38:22 AM | 
+Params : 
+6/12/2023 6:38:22 AM | 
+MethodeName : Void WinIOError(Int32, System.String)
+6/12/2023 6:38:22 AM | 
+Stamp : 6/12/2023 6:38:22 AM
+6/12/2023 6:38:22 AM | 
+OSFullName : Microsoft Windows 11 Professionnel
+6/12/2023 6:38:22 AM | 
+AvailablePhysicalMemory : 8.98 Go 
+6/12/2023 6:38:22 AM | 
+TotalPhysicalMemory : 15.86 Go 
+6/12/2023 6:38:22 AM | 
+AvailableVirtualMemory : 2.73 Go 
+6/12/2023 6:38:22 AM | 
+TotalVirtualMemory : 4 Go 
+6/12/2023 6:38:22 AM | 
+WorkingSet : 604.05 Mo 
+6/12/2023 6:38:22 AM | 
+PagedMemorySize : 523.52 Mo 
+6/12/2023 6:38:22 AM | 
+TotalMemory : 189.05 Mo 
+6/12/2023 6:38:22 AM | 
+
+6/12/2023 6:38:22 AM | 
+ExTrace : 
+6/12/2023 6:38:22 AM | 
+à openElement.Forms.FrmMain.SaveUserUIConfigToolsBox()
+6/12/2023 6:38:22 AM | 
+
+6/12/2023 6:38:22 AM | 
+OETrace : 
+6/12/2023 6:38:22 AM | 
+à openElement.Forms.FrmMain.SaveUserUIConfigToolsBox()
+6/12/2023 6:38:22 AM | 
+à openElement.Forms.FrmMain.FrmMain_FormClosing(Object sender, FormClosingEventArgs e)
+6/12/2023 6:38:22 AM | 
+à openElement.Forms.FrmMain.WndProc(Message& m)
+6/12/2023 6:38:22 AM | 
+à openElement.Forms.FrmMain.WndProc(Message& m)
+6/12/2023 6:38:22 AM | 
+à openElement.My.MyApplication.Main(String[] Args)
+6/12/2023 6:38:22 AM | 
+
+6/12/2023 6:38:22 AM | 
+------------------
+6/20/2023 4:29:51 PM | 
+6/20/2023 4:29:51 PM | 
+Message : Impossible de trouver une partie du chemin d'accès 'C:\Users\DELL\AppData\Local\Temp\openElement\7af5a0dc-00db-4707-bcb5-6a77721d9e38\Image\Recette_Lapin_braise_Canva_So_ Lapin.jpg'.
+6/20/2023 4:29:51 PM | 
+LastTrace : openElement.OEIO.File.Copy(String sourcePath, String destPath, Boolean overwrite, Boolean showError, Boolean logError)
+6/20/2023 4:29:51 PM | 
+Params : 
+6/20/2023 4:29:51 PM | 
+MethodeName : Void WinIOError(Int32, System.String)
+6/20/2023 4:29:51 PM | 
+Stamp : 6/20/2023 4:29:51 PM
+6/20/2023 4:29:51 PM | 
+OSFullName : Microsoft Windows 11 Professionnel
+6/20/2023 4:29:51 PM | 
+AvailablePhysicalMemory : 7.72 Go 
+6/20/2023 4:29:51 PM | 
+TotalPhysicalMemory : 15.86 Go 
+6/20/2023 4:29:51 PM | 
+AvailableVirtualMemory : 2.78 Go 
+6/20/2023 4:29:51 PM | 
+TotalVirtualMemory : 4 Go 
+6/20/2023 4:29:51 PM | 
+WorkingSet : 557.21 Mo 
+6/20/2023 4:29:51 PM | 
+PagedMemorySize : 529.91 Mo 
+6/20/2023 4:29:51 PM | 
+TotalMemory : 234.99 Mo 
+6/20/2023 4:29:51 PM | 
+
+6/20/2023 4:29:51 PM | 
+ExTrace : 
+6/20/2023 4:29:51 PM | 
+à openElement.OEIO.File.Copy(String sourcePath, String destPath, Boolean overwrite, Boolean showError, Boolean logError)
+6/20/2023 4:29:51 PM | 
+
+6/20/2023 4:29:51 PM | 
+OETrace : 
+6/20/2023 4:29:51 PM | 
+à openElement.OEIO.File.Copy(String sourcePath, String destPath, Boolean overwrite, Boolean showError, Boolean logError)
+6/20/2023 4:29:51 PM | 
+à openElement.FrmOptimizeImage._MakeResult(ActionArg`2 actionArg)
+6/20/2023 4:29:51 PM | 
+à openElement.FrmOptimizeImage._Lambda$__R228-2(ActionArg a0)
+6/20/2023 4:29:51 PM | 
+à openElement.Wait.RunAction(ActionWait action, ActionArg param, String text1, String text2, WaitIconType iconType)
+6/20/2023 4:29:51 PM | 
+à openElement.FrmOptimizeImage.MakeResult(SourceInfo infoSource, ResultInfo infoResult)
+6/20/2023 4:29:51 PM | 
+à openElement.FrmOptimizeImage._IniImages(ActionArg`1 actionArg)
+6/20/2023 4:29:51 PM | 
+à openElement.FrmOptimizeImage._Lambda$__R225-1(ActionArg a0)
+6/20/2023 4:29:51 PM | 
+à openElement.Wait.RunFunction[TResult](FuncWait`1 action, ActionArg param, String text1, String text2, WaitIconType iconType)
+6/20/2023 4:29:51 PM | 
+à openElement.FrmOptimizeImage.IniImages(String[] imagesFile)
+6/20/2023 4:29:51 PM | 
+à openElement.FrmOptimizeImage.EditFiles(String[] imagesFile)
+6/20/2023 4:29:51 PM | 
+à openElement.Forms.FrmLibrary.BBI_OptimizeImage_ItemClick(Object sender, ItemClickEventArgs e)
+6/20/2023 4:29:51 PM | 
+à openElement.ElementEditorService.ShowDialog(Form dialog)
+6/20/2023 4:29:51 PM | 
+à openElement.WebElement.Editors.UITypeLinkFile.EditValue(ITypeDescriptorContext context, IServiceProvider provider, Object value)
+6/20/2023 4:29:51 PM | 
+à openElement.ElementEditorService.OpenProperty(String propertyName)
+6/20/2023 4:29:51 PM | 
+à openElement.Forms.PageEditFromJs._OpenSortProperty(String id, String propertyName)
+6/20/2023 4:29:51 PM | 
+à openElement.My.MyApplication.Main(String[] Args)
+6/20/2023 4:29:51 PM | 
+
+6/20/2023 4:29:51 PM | 
+------------------

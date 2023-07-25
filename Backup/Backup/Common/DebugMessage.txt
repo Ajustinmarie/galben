@@ -1,0 +1,30 @@
+Juste cliquer sur Optimiser des images.
+
+
+Message : Le nom de fichier ne peut pas être null.
+Nom du paramètre : sourceFileName
+LastTrace : openElement.OEIO.File.Copy(String sourcePath, String destPath, Boolean overwrite, Boolean showError, Boolean logError)
+Params : SourcePath:DestPath:C:/Users/broly/Documents/openElement/TEMPLATE_OPENELEMENT/Files/Image/accueil/GALERIE_01/MINIATURES/IMG01.jpg
+MethodeName : System.String InternalCopy(System.String, System.String, Boolean)
+Stamp : 8/8/2016 9:34:23 PM
+OSFullName : Microsoft Windows 10 Professionnel
+AvailablePhysicalMemory : 9.65 Go 
+TotalPhysicalMemory : 15.97 Go 
+AvailableVirtualMemory : 3.07 Go 
+TotalVirtualMemory : 4 Go 
+WorkingSet : 328.04 Mo 
+PagedMemorySize : 307.83 Mo 
+TotalMemory : 38.38 Mo 
+
+ExTrace : 
+à openElement.OEIO.File.Copy(String sourcePath, String destPath, Boolean overwrite, Boolean showError, Boolean logError) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\Common\OEIO.vb:ligne 80
+
+OETrace : 
+à openElement.OEIO.File.Copy(String sourcePath, String destPath, Boolean overwrite, Boolean showError, Boolean logError) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Class\Common\OEIO.vb:ligne 93
+à openElement.FrmOptimizeImage.SBOK_Click(Object sender, EventArgs e) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\FilesManager\FrmOptimizeImage.vb:ligne 1001
+à openElement.Forms.FrmLibrary.BBI_OptimizeImage_ItemClick(Object sender, ItemClickEventArgs e) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\FilesManager\FrmLibrary.vb:ligne 1197
+à openElement.Forms.FrmLibrary.ShowDialog(EnuOpenMode openMode) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\FilesManager\FrmLibrary.vb:ligne 155
+à openElement.Forms.Main.RibbonCore.RPProject.RPGPages.BBIProjectPagesRessources_ItemClick(Object sender, ItemClickEventArgs e) dans C:\Users\Win7Dev64\Source\Workspaces\openElement\App\openElement\Form\Main\RibbonItemCore\Project\RPGPages.vb:ligne 164
+à openElement.My.MyApplication.Main(String[] Args) dans 17d14f5c-a337-4978-8281-53493378c1071.vb:ligne 82
+
+------------------

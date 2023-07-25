@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.solapin.ci/</loc>
+    <lastmod>2023-06-27</lastmod>
+  </url>
+  <url oeid="773e3ed3-621f-47ae-b09a-ff90f6e53bbf" oelang="DEFAULT">
+    <loc>https://www.solapin.ci/index.htm</loc>
+    <lastmod>2023-06-26</lastmod>
+  </url>
+  <url oeid="19ac5b22-4c86-499c-8aaf-78ae28e4f6fb" oelang="DEFAULT">
+    <loc>https://www.solapin.ci/actualites.htm</loc>
+    <lastmod>2023-06-26</lastmod>
+  </url>
+  <url oeid="fbf186e8-b80a-4cea-b46d-9d55d35be2af" oelang="DEFAULT">
+    <loc>https://www.solapin.ci/recettes.htm</loc>
+    <lastmod>2023-06-26</lastmod>
+  </url>
+  <url oeid="55c52eaf-c73b-4aab-99f5-e269f3685747" oelang="DEFAULT">
+    <loc>https://www.solapin.ci/engagements.htm</loc>
+    <lastmod>2023-06-26</lastmod>
+  </url>
+</urlset>

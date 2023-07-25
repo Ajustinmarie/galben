@@ -1,0 +1,28 @@
+Ouverture de la connexion, veuillez patienter ...
+Data delete : C:\Users\DELL\AppData\Local\Temp\openElementFtp\SO LAPIN\Backup\.htaccess
+FtpIOException : An error occurred while communicating with the proxy server.
+   à Xceed.Ftp.Engine.ConnectFtpCommand.EndExecute(IAsyncResult asyncResult)
+   à Xceed.Ftp.FtpClient.DoExecuteCommand(FtpCommandChannel commandChannel, BaseFtpCommand command)
+   à Xceed.Ftp.FtpClient.Connect(String hostName, Int32 port)
+   à SyncFTP.Main.SendSyncFiles()
+   à SyncFTP.Main.SyncFiles()
+FtpIOException :
+An error occurred while communicating with the proxy server.
+Ouverture de la connexion, veuillez patienter ...
+FtpIOException : An error occurred while communicating with the proxy server.
+   à Xceed.Ftp.Engine.ConnectFtpCommand.EndExecute(IAsyncResult asyncResult)
+   à Xceed.Ftp.FtpClient.DoExecuteCommand(FtpCommandChannel commandChannel, BaseFtpCommand command)
+   à Xceed.Ftp.FtpClient.Connect(String hostName, Int32 port)
+   à SyncFTP.Main.SendSyncFiles()
+   à SyncFTP.Main.SyncFiles()
+FtpIOException :
+An error occurred while communicating with the proxy server.
+Ouverture de la connexion, veuillez patienter ...
+FtpIOException : An error occurred while communicating with the proxy server.
+   à Xceed.Ftp.Engine.ConnectFtpCommand.EndExecute(IAsyncResult asyncResult)
+   à Xceed.Ftp.FtpClient.DoExecuteCommand(FtpCommandChannel commandChannel, BaseFtpCommand command)
+   à Xceed.Ftp.FtpClient.Connect(String hostName, Int32 port)
+   à SyncFTP.Main.SendSyncFiles()
+   à SyncFTP.Main.SyncFiles()
+FtpIOException :
+An error occurred while communicating with the proxy server.

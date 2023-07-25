@@ -1,0 +1,304 @@
+Ouverture de la connexion, veuillez patienter ...
+Data delete : C:\Users\broly\AppData\Local\Temp\openElementFtp\TEMPLATE_OPENELEMENT\Backup\.htaccess
+220-Bienvenue,
+220-
+220-    On Vous Héberge ?
+220-
+220-Vous êtes connecté sur webm292.
+220 This is a private system - No anonymous login
+USER ********
+331 User sensode OK. Password required
+PASS ********
+230-User sensode has group access to:  users     
+230 OK. Current restricted directory is /
+CWD www/template
+250 OK. Current directory is /www/template
+PWD
+257 "/www/template" is your current location
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,216,59)
+STOR .htaccess
+150 Accepted data connection
+226-File successfully transferred
+226 0.081 seconds (measured here), 3.77 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,216,86)
+STOR FAQ.css
+150 Accepted data connection
+226-File successfully transferred
+226 0.062 seconds (measured here), 32.29 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,216,114)
+STOR FAQ.en.htm
+150 Accepted data connection
+226-File successfully transferred
+226 0.065 seconds (measured here), 419.96 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,216,128)
+STOR FAQ.htm
+150 Accepted data connection
+226-File successfully transferred
+226 0.064 seconds (measured here), 429.72 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,216,155)
+STOR index(var).js
+150 Accepted data connection
+226-File successfully transferred
+226 0.060 seconds (measured here), 178.15 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,216,173)
+STOR index(var).php
+150 Accepted data connection
+226-File successfully transferred
+226 0.069 seconds (measured here), 17.61 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,216,196)
+STOR index.css
+150 Accepted data connection
+226-File successfully transferred
+226 0.068 seconds (measured here), 345.99 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,216,224)
+STOR index.en.htm
+150 Accepted data connection
+226-File successfully transferred
+226 0.083 seconds (measured here), 0.70 Mbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,216,251)
+STOR index.htm
+150 Accepted data connection
+226-File successfully transferred
+226 0.078 seconds (measured here), 0.75 Mbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,217,13)
+STOR robots.txt
+150 Accepted data connection
+226-File successfully transferred
+226 0.063 seconds (measured here), 0.73 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,217,31)
+STOR sitemap.xml
+150 Accepted data connection
+226-File successfully transferred
+226 0.070 seconds (measured here), 34.22 Kbytes per second
+PWD
+257 "/www/template" is your current location
+MKD Backup
+550 Can't create directory: File exists
+CWD Backup
+250 OK. Current directory is /www/template/Backup
+CWD /www/template
+250 OK. Current directory is /www/template
+MKD Files
+550 Can't create directory: File exists
+CWD Files
+250 OK. Current directory is /www/template/Files
+PWD
+257 "/www/template/Files" is your current location
+MKD Image
+550 Can't create directory: File exists
+CWD Image
+250 OK. Current directory is /www/template/Files/Image
+PWD
+257 "/www/template/Files/Image" is your current location
+MKD faq
+550 Can't create directory: File exists
+CWD faq
+250 OK. Current directory is /www/template/Files/Image/faq
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,217,86)
+STOR OE001.jpg
+150 Accepted data connection
+226-File successfully transferred
+226 0.086 seconds (measured here), 0.71 Mbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,217,105)
+STOR OE002.jpg
+150 Accepted data connection
+226-File successfully transferred
+226 0.073 seconds (measured here), 388.31 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,217,128)
+STOR OE003.jpg
+150 Accepted data connection
+226-File successfully transferred
+226 0.054 seconds (measured here), 369.96 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,217,146)
+STOR OE004.jpg
+150 Accepted data connection
+226-File successfully transferred
+226 0.065 seconds (measured here), 397.14 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,217,164)
+STOR OE006.jpg
+150 Accepted data connection
+226-File successfully transferred
+226 0.063 seconds (measured here), 191.31 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,217,182)
+STOR OE008.jpg
+150 Accepted data connection
+226-File successfully transferred
+226 0.103 seconds (measured here), 0.76 Mbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,217,196)
+STOR OE010.jpg
+150 Accepted data connection
+226-File successfully transferred
+226 0.074 seconds (measured here), 364.75 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,217,223)
+STOR OE011.jpg
+150 Accepted data connection
+226-File successfully transferred
+226 0.094 seconds (measured here), 0.73 Mbytes per second
+CWD /www/template/Files/Image
+250 OK. Current directory is /www/template/Files/Image
+CWD /www/template/Files
+250 OK. Current directory is /www/template/Files
+CWD /www/template
+250 OK. Current directory is /www/template
+MKD scrolltop
+550 Can't create directory: File exists
+CWD scrolltop
+250 OK. Current directory is /www/template/scrolltop
+CWD /www/template
+250 OK. Current directory is /www/template
+MKD Templates
+550 Can't create directory: File exists
+CWD Templates
+250 OK. Current directory is /www/template/Templates
+CWD /www/template
+250 OK. Current directory is /www/template
+PWD
+257 "/www/template" is your current location
+PWD
+257 "/www/template" is your current location
+MKD Backup
+550 Can't create directory: File exists
+CWD Backup
+250 OK. Current directory is /www/template/Backup
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,218,0)
+STOR .htaccess
+150 Accepted data connection
+226-File successfully transferred
+226 0.045 seconds (measured here), 0.71 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,218,27)
+STOR FAQ.dat
+150 Accepted data connection
+226-File successfully transferred
+226 0.264 seconds (measured here), 1.91 Mbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,218,63)
+STOR index.dat
+150 Accepted data connection
+226-File successfully transferred
+226 1.836 seconds (measured here), 2.44 Mbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,218,205)
+STOR TEMPLATE_OPENELEMENT.ope
+150 Accepted data connection
+226-File successfully transferred
+226 0.050 seconds (measured here), 71.06 Kbytes per second
+PWD
+257 "/www/template/Backup" is your current location
+MKD Templates
+550 Can't create directory: File exists
+CWD Templates
+250 OK. Current directory is /www/template/Backup/Templates
+PWD
+257 "/www/template/Backup/Templates" is your current location
+MKD Controls
+550 Can't create directory: File exists
+CWD Controls
+250 OK. Current directory is /www/template/Backup/Templates/Controls
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,218,237)
+STOR WECadre_cdae5836.OESkin
+150 Accepted data connection
+226-File successfully transferred
+226 0.069 seconds (measured here), 0.71 Mbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,218,251)
+STOR WEHrVertival_ac2be573.OESkin
+150 Accepted data connection
+226-File successfully transferred
+226 0.061 seconds (measured here), 461.33 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,219,9)
+STOR WELink_a97d84f2.OESkin
+150 Accepted data connection
+226-File successfully transferred
+226 0.096 seconds (measured here), 335.41 Kbytes per second
+TYPE I
+200 TYPE is now 8-bit binary
+PASV
+227 Entering Passive Mode (213,186,33,210,219,32)
+STOR WELink_f953043c.OESkin
+150 Accepted data connection
+226-File successfully transferred
+226 0.062 seconds (measured here), 447.47 Kbytes per second
+CWD /www/template/Backup/Templates
+250 OK. Current directory is /www/template/Backup/Templates
+CWD /www/template/Backup
+250 OK. Current directory is /www/template/Backup
+CWD /www/template
+250 OK. Current directory is /www/template
+Déconnexion du serveur
+QUIT
+500 ?
